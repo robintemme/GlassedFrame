@@ -1,8 +1,6 @@
-GlassedFrame
-============
+# GlassedFrame
 
-the snippet for a windows aero glassed frame and a text displayed on it
+The snippet for a windows aero glassed frame and a text displayed on it
 
-
-Screenshot:
-http://d.pr/i/CRCA
+## Screenshot
+![Screenshot](screenshot.png)
